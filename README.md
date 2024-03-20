@@ -46,6 +46,12 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAYKJOEL&repo=MAYKJOEL&theme=custom&colors=black&ground=black&title=white&text=gray&border=gray)](https://github.com/MAYKJOEL/MAYKJOEL)
 
+<div align="center">
+  <a href="https://github.com/MAYKJOEL/MAYKJOEL">
+    <img src="https://github-readme-stats.vercel.app/api?username=MAYKJOEL&repo=MAYKJOEL&theme=custom&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=8B949E" />
+  </a>
+</div>
+
 
 <!--
 **MAYKJOEL/MAYKJOEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
