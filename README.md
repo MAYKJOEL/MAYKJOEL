@@ -8,7 +8,7 @@
 * ❤️ Me encanta: Crear modelos y algoritmos de Machine Learning para soluciones innovadoras.
 
 ### 🛠  Habilidades técnicas
-* 💻   ![Python](https://camo.githubusercontent.com/8717d68f9391c117fed2e684f1661d04825367eea9e812bce2316064552612cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e)
+* 💻   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://camo.githubusercontent.com/6570a712559ab2ff4bbb01d4dfe8eeb0a306a9ee067ed21fff83f2b7f84c135f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d522d3333333333333f7374796c653d666c6174266c6f676f3d52266c6f676f436f6c6f723d323736444333)
 ![SQL](https://camo.githubusercontent.com/9ddebb9a0e81cd89821ac06463148694cd43cfeac4dbe308301207acb026146b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3333333333333f7374796c653d666c6174266c6f676f3d73716c)
 ![Markdown](https://camo.githubusercontent.com/e792c861cfda991fb13d92dd4d0a1622ae8114dd853e907c924229c606a36a63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d3333333333333f7374796c653d666c6174266c6f676f3d6d61726b646f776e)
@@ -42,7 +42,7 @@
 ### ¡Conéctame!
 ¡Buscas un Data Scientist comprometido y apasionado? ¡Contáctame! ¡Juntos impulsaremos el éxito de tu proyecto o empresa!
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/mayk-quispe-gaspar-42814a97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
@@ -51,6 +51,7 @@
 <div align="center">
   <a href="https://github.com/MAYKJOEL/MAYKJOEL">
     <img src="https://github-readme-stats.vercel.app/api?username=MAYKJOEL&repo=MAYKJOEL&theme=custom&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=8B949E" />
+    <br/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYKJOEL&theme=custom&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=8B949E" />
 
   </a>
