@@ -51,7 +51,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/mayk-quispe-gaspar-42814a97/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">    
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="Linkedin">    
   </a>
   <a href='mailto:joel.14795@gmail.com'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
