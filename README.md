@@ -44,7 +44,7 @@
 
 ¡Gracias por visitar mi perfil! 📚 Disfruto de la lectura, viajar y tiempo con familiares y amigos. ¡Hagamos del mundo un lugar mejor con ciencia y datos! 🌍✨
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAYKJOEL&repo=MAYKJOEL&theme=custom&colors=background=black&title=white&text=gray&border=gray)](https://github.com/MAYKJOEL/MAYKJOEL)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAYKJOEL&repo=MAYKJOEL&theme=custom&colors=black&ground=black&title=white&text=gray&border=gray)](https://github.com/MAYKJOEL/MAYKJOEL)
 
 
 <!--
