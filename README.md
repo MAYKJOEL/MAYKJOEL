@@ -42,24 +42,21 @@
 ### ¡Conéctame!
 ¡Buscas un Data Scientist comprometido y apasionado? ¡Contáctame! ¡Juntos impulsaremos el éxito de tu proyecto o empresa!
 
-![link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzidQcKRPbm1fWp9RJeXE2lL-nhW9YymqKoQ)
+<p align="center">
+<a href="https://www.linkedin.com/in/mayk-quispe-gaspar-42814a97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
 ¡Gracias por visitar mi perfil! 📚 Disfruto de la lectura, viajar y tiempo con familiares y amigos. ¡Hagamos del mundo un lugar mejor con ciencia y datos! 🌍✨
 
 <div align="center">
   <a href="https://github.com/MAYKJOEL/MAYKJOEL">
     <img src="https://github-readme-stats.vercel.app/api?username=MAYKJOEL&repo=MAYKJOEL&theme=custom&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=8B949E" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYKJOEL&theme=buefy&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYKJOEL&theme=custom&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=8B949E" />
 
   </a>
 </div>
 
-</p>
 
-<p align="center">
-<h3> 🤝🏻 &nbsp;Me encuentro en </h3>
-<a href="https://www.linkedin.com/in/mayk-quispe-gaspar-42814a97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-</p>
 
 <!--
 **MAYKJOEL/MAYKJOEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
