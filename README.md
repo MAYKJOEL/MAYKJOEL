@@ -42,7 +42,7 @@
 ### ¡Conéctame!
 ¡Buscas un Data Scientist comprometido y apasionado? ¡Contáctame! ¡Juntos impulsaremos el éxito de tu proyecto o empresa!
 
-[link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzidQcKRPbm1fWp9RJeXE2lL-nhW9YymqKoQ)
+![link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzidQcKRPbm1fWp9RJeXE2lL-nhW9YymqKoQ)
 
 ¡Gracias por visitar mi perfil! 📚 Disfruto de la lectura, viajar y tiempo con familiares y amigos. ¡Hagamos del mundo un lugar mejor con ciencia y datos! 🌍✨
 
