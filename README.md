@@ -45,6 +45,8 @@
 ¡Gracias por visitar mi perfil! 📚 Disfruto de la lectura, viajar y tiempo con familiares y amigos. ¡Hagamos del mundo un lugar mejor con ciencia y datos! 🌍✨
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAYKJOEL&repo=MAYKJOEL)](https://github.com/MAYKJOEL/MAYKJOEL)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAYKJOEL&repo=MAYKJOEL&theme=black&layout=compact)](https://github.com/MAYKJOEL/MAYKJOEL)
+
 
 <!--
 **MAYKJOEL/MAYKJOEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
